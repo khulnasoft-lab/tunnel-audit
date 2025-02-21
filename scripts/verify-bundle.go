@@ -64,7 +64,7 @@ func createOrasContainer(ctx context.Context, regIP string, bundlePath string) t
 
 func createTunnelContainer(ctx context.Context, regIP string) testcontainers.Container {
 	reqTunnel := testcontainers.ContainerRequest{
-		Image: "aquasec/tunnel:latest",
+		Image: "khulnasoft/tunnel:latest",
 		Cmd:   []string{"--debug", "config", fmt.Sprintf("--policy-bundle-repository=%s:5111/misscan-test:latest", regIP), "."},
 		HostConfigModifier: func(config *container.HostConfig) {
 			config.NetworkMode = "host"
