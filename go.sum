@@ -191,6 +191,8 @@ github.com/kevinburke/ssh_config v1.2.0 h1:x584FjTGwHzMwvHx18PXxbBVzfnxogHaAReU4
 github.com/kevinburke/ssh_config v1.2.0/go.mod h1:CT57kijsi8u/K/BOFA39wgDQJ9CxiF4nAY/ojJ6r6mM=
 github.com/khulnasoft-lab/misscan v0.0.0-20250221174057-8fcc738cb068 h1:uG1yoN/EpYV4wtbjeCLip4iV+qouUbKRqJj47wqnE3c=
 github.com/khulnasoft-lab/misscan v0.0.0-20250221174057-8fcc738cb068/go.mod h1:R02mWGI2jsxsv/+hwwWc0LonHJEg0Xp4V5w3DfNZ9QQ=
+github.com/khulnasoft-lab/misscan v0.0.0-20250228152231-c672ab40c6cf h1:NlgY/YzI1LSJrSR6p2U3pmg6QqeHHtES2v//IZ/X58E=
+github.com/khulnasoft-lab/misscan v0.0.0-20250228152231-c672ab40c6cf/go.mod h1:pnmmtBngvWWD7k9+hLpE0emKdm1U4IpanXtmGA3h0pc=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/klauspost/compress v1.12.3/go.mod h1:8dP1Hq4DHOhN9w426knH3Rhby4rFm6D8eO+e+Dq5Gzg=

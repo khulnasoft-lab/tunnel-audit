@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/docker/docker v24.0.7+incompatible
-	github.com/khulnasoft-lab/misscan v0.0.0-20250221174057-8fcc738cb068
+	github.com/khulnasoft-lab/misscan v0.0.0-20250228152231-c672ab40c6cf
 	github.com/liamg/iamgo v0.0.9
 	github.com/liamg/memoryfs v1.6.0
 	github.com/open-policy-agent/opa v0.60.0
