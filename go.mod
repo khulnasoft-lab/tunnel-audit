@@ -2,7 +2,7 @@ module github.com/khulnasoft-lab/tunnel-audit
 
 go 1.23.0
 
-toolchain go1.24.4
+toolchain go1.25.0
 
 require (
 	github.com/docker/docker v24.0.7+incompatible
