@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.4
 
 require (
-	github.com/docker/docker v25.0.6+incompatible
+	github.com/docker/docker v25.0.12+incompatible
 	github.com/khulnasoft-lab/misscan v0.0.0-20250606131457-cbada4925cb7
 	github.com/liamg/iamgo v0.0.9
 	github.com/liamg/memoryfs v1.6.0
